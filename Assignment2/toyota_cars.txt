@@ -1,0 +1,2 @@
+Car{id=1, make='Toyota', model='Camry', yearOfManufacture=2015, color='Black', price=15000.00, registrationNumber='ABC123'}
+Car{id=3, make='Toyota', model='Corolla', yearOfManufacture=2017, color='Blue', price=12000.00, registrationNumber='DEF789'}
